@@ -1,0 +1,4 @@
+key,value,unit,note
+kwh_per_kg,1.7,kWh/kg,"Planning estimate for kiln casting; replace with metered firings"
+usable_share,0.85,share,"Share of collected glass usable after caps, labels and contamination"
+grid_co2_per_kwh,0.25,kg CO2/kWh,"Approximate emissions of Italian grid electricity; confirm against the latest ISPRA factor"
