@@ -33,7 +33,7 @@ Nessuno sa ancora quanto valgono una B o un BAR, quindi il prezzo non si indovin
 
 ## Tutto alla luce del sole
 
-Un [cruscotto pubblico](https://blankworker1.github.io/GLASS/dashboard/) mostra i numeri del progetto, senza giudizi: quanto costa il vetro alla città, quanto vetro produce Bosa, quanto può produrre un forno, cosa è stato prodotto e venduto, a quali prezzi, e quanta energia è venuta dal sole.
+Un [dashboard pubblico](https://blankworker1.github.io/GLASS/dashboard/) mostra i numeri del progetto, senza giudizi: quanto costa il vetro alla città, quanto vetro produce Bosa, quanto può produrre un forno, cosa è stato prodotto e venduto, a quali prezzi, e quanta energia è venuta dal sole.
 
 La maggior parte di questi numeri è piccola. Un forno può trasformare al massimo circa lo 0,1% del vetro di Bosa in B e BAR. GLASS Bosa non pretende di risolvere i rifiuti della città. Rende visibile il problema, e dimostra che la città può tornare a produrre qualcosa da ciò che oggi butta via.
 
