@@ -33,7 +33,7 @@ Nessuno sa ancora quanto valgono una B o un BAR, quindi il prezzo non si indovin
 
 ## Tutto alla luce del sole
 
-Un [dashboard pubblico](https://blankworker1.github.io/GLASS/dashboard/) mostra i numeri del progetto, senza giudizi: quanto costa il vetro alla città, quanto vetro produce Bosa, quanto può produrre un forno, cosa è stato prodotto e venduto, a quali prezzi, e quanta energia è venuta dal sole.
+Un [dashboard pubblico](https://blankworker1.github.io/GLASS/dashboard/) mostra i numeri del progetto, senza giudizi: quanto costa il vetro alla città, quanto vetro produce Bosa, quanto può produrre un forno, cosa è stato prodotto e venduto, quanti ordini aspettano il forno, a quali prezzi, e quanta energia è venuta dal sole.
 
 La maggior parte di questi numeri è piccola. Un forno può trasformare al massimo circa lo 0,1% del vetro di Bosa in B e BAR. GLASS Bosa non pretende di risolvere i rifiuti della città. Rende visibile il problema, e dimostra che la città può tornare a produrre qualcosa da ciò che oggi butta via.
 
@@ -71,6 +71,7 @@ Il dashboard legge solo i file in [`data/`](data/). Nella pagina non si scrive n
 | `bosa-units.csv` | La B e il BAR: peso, rapporto e prezzo minimo |
 | `bosa-register.csv` | Una riga per pezzo prodotto: numero di serie, unità, peso, provenienza del vetro, data di fusione, posizione della rondella, data di vendita |
 | `bosa-firings.csv` | Una riga per cottura, con l'energia misurata dal sole e dalla rete |
+| `bosa-orders.csv` | Una riga per ordine in attesa di cottura: numero, data, unità, quantità, stato (nessun nome, nessun prezzo) |
 | `bosa-prices.csv` | Una riga per vendita o scambio: prima l'Edizione 0, poi il Glass Exchange |
 | `bosa-assumptions.csv` | Stime di progetto, da sostituire con i dati misurati |
 
@@ -119,7 +120,7 @@ Nobody knows yet what a B or a BAR is worth, so the price is not guessed: it is 
 
 ## Everything in the open
 
-A [public dashboard](https://blankworker1.github.io/GLASS/dashboard/?lang=en) shows the numbers behind the project, without judgement: what glass costs the town, how much glass Bosa produces, how much one kiln can make, what has been made and sold, at what prices, and how much of the energy came from the sun.
+A [public dashboard](https://blankworker1.github.io/GLASS/dashboard/?lang=en) shows the numbers behind the project, without judgement: what glass costs the town, how much glass Bosa produces, how much one kiln can make, what has been made and sold, how many orders are waiting for the kiln, at what prices, and how much of the energy came from the sun.
 
 Most of these numbers are small. One kiln can turn at most about 0.1% of Bosa's glass into B and BAR. GLASS Bosa does not claim to solve the town's waste. It makes the problem visible, and shows that the town can make something again from what it currently throws away.
 
@@ -157,6 +158,7 @@ The dashboard reads only from the files in [`data/`](data/). Nothing is typed in
 | `bosa-units.csv` | The B and the BAR: weight, relation and floor price |
 | `bosa-register.csv` | One row per piece made: serial, unit, weight, glass source, date cast, rove position, date sold |
 | `bosa-firings.csv` | One row per kiln firing, with metered energy from solar and from the grid |
+| `bosa-orders.csv` | One row per order waiting for a firing: number, date, unit, quantity, status (no names, no prices) |
 | `bosa-prices.csv` | One row per sale or trade: Edition 0 first, then the Glass Exchange |
 | `bosa-assumptions.csv` | Planning estimates still to be replaced by measured figures |
 
