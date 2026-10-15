@@ -51,7 +51,7 @@ Da leggere in ordine: ognuno si basa su quello precedente.
 | 2 | [Un modello di produzione per Bosa](docs/it/02-un-modello-di-produzione-per-bosa.md) | Come deve funzionare la produzione: una cooperativa, prima la domanda, misurata dalla resilienza, e le sei prove che ogni prodotto deve superare |
 | 3 | [Made in Bosa • Un'officina diffusa](docs/it/03-made-in-bosa-officina-diffusa.md) | Dove: piccoli laboratori sparsi per la città riuniti in un'unica impresa, il punto centrale, il marchio collettivo *Made in Bosa* e un censimento di ciò che Bosa ha già |
 | 4 | [GLASS Bosa](docs/it/04-glass-bosa.md) | L'esempio concreto: il materiale, il prodotto, il processo, l'Edizione 0, le fasi di produzione e il Glass Exchange |
-| 5 | [Il dashboard](docs/en/05-dashboard.md) | Cosa mostra la data pubblica, da dove viene ogni numero e come si calcola (per ora solo in inglese) |
+| 5 | [Il dashboard](docs/en/05-dashboard.md) | Cosa mostra il dashboard pubblico, da dove viene ogni numero e come si calcola (per ora solo in inglese) |
 
 ## Il dashboard 
 
