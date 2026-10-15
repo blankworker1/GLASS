@@ -246,7 +246,7 @@ Ogni pezzo prodotto è in un registro pubblico: numero di serie, unità, peso fi
 - **il flusso del vetro:** il vetro totale di Bosa ogni anno, e lo stesso totale per residente mostrato come una quantità costante ogni mese dell'anno (circa 6,8 kg per residente al mese nel 2024);
 - **un forno di produzione locale:** il massimo che un forno può produrre, in BAR e B per cottura e all'anno, e che quota del flusso rappresenterebbe a pieno regime;
 - **cosa si produce e si vende:** B e BAR prodotti, B e BAR venduti, vetro fuso in chili, e la quota del flusso deviata finora;
-- **i prezzi:** l'ultimo prezzo, il più basso e il più alto di B e BAR rispetto ai loro minimi, e ogni scambio per data. I primi prezzi sono quelli di aggiudicazione dell'Edizione 0; dopo, il cruscotto prende i prezzi dal Glass Exchange quando sarà attivo;
+- **i prezzi:** l'ultimo prezzo, il più basso e il più alto di B e BAR rispetto ai loro minimi, e ogni scambio per data. I primi prezzi sono quelli di aggiudicazione dell'Edizione 0; dopo, il dashboard prende i prezzi dal Glass Exchange quando sarà attivo;
 - **l'energia, in una sezione a parte:** l'impianto solare, i kWh misurati di ogni cottura divisi tra sole e rete, la quota dal sole, le cotture fatte senza alcuna elettricità dalla rete (a zero emissioni), e la CO₂ evitata rispetto alla stessa cottura alimentata dalla rete. Una cottura si dice a zero emissioni solo quando il contatore della rete segna zero.
 
 Tutto questo si affianca alle misure di resilienza del modello di produzione: vendite garantite, entrate fuori stagione, concentrazione, proprietà locale e competenze condivise.
