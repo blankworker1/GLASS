@@ -238,9 +238,9 @@ B e BAR si scambiano sul **Glass Exchange**: un mercato ospitato nei bar e nei c
 
 Ogni scambio è un pezzo fisico che passa di mano. Il Glass Exchange non vende mai diritti su pezzi custoditi altrove: niente certificati, conti o promesse. È questo che lo mantiene un mercato di merci.
 
-## 11. Il registro e il cruscotto
+## 11. Il registro e il dashboard
 
-Ogni pezzo prodotto è in un registro pubblico: numero di serie, unità, peso finito, provenienza del vetro, data di fusione, posizione della rondella (X, Y) per un BAR che ce l'ha, e data di vendita. Ogni cottura è registrata a parte, con la sua energia, il vetro caricato e gli scarti. I prezzi non fanno parte del registro: vengono dalle vendite e dal Glass Exchange. Questa è la parte trasparente. Un cruscotto pubblico, GLASS Bosa, mostra sei cose, in quest'ordine:
+Ogni pezzo prodotto è in un registro pubblico: numero di serie, unità, peso finito, provenienza del vetro, data di fusione, posizione della rondella (X, Y) per un BAR che ce l'ha, e data di vendita. Ogni cottura è registrata a parte, con la sua energia, il vetro caricato e gli scarti. I prezzi non fanno parte del registro: vengono dalle vendite e dal Glass Exchange. Questa è la parte trasparente. Un dashboard pubblico, GLASS Bosa, mostra sei cose, in quest'ordine:
 
 - **quanto costa il vetro a Bosa:** il costo medio per raccogliere e trattare un chilo di rifiuti differenziati (circa 0,21 € nel 2024, dati ISPRA), cosa significa per il vetro di ogni residente (circa 17 € l'anno) e per la spesa totale dei rifiuti (263 € per residente), e il risparmio dato dal vetro fuso invece a Bosa;
 - **il flusso del vetro:** il vetro totale di Bosa ogni anno, e lo stesso totale per residente mostrato come una quantità costante ogni mese dell'anno (circa 6,8 kg per residente al mese nel 2024);
